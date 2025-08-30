@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Learn Devops From ClpudStackh.This is SARBOJIT PAL </h1>
+    <h1> Learn Devops From CloudStackh.This is ROUNAK CHOUDHURY </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You so much !! This is Sarbojit Pal </h1>
+   <h1> Thank You so much !! This is Rounak Choudhury </h1>
    <h1> See You Again </h1>
   
 </form>
